@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Minefield/bin/Debug/net6.0
+/Minefield/obj
+/MineField.Tests/bin
+/MineField.Tests/obj
